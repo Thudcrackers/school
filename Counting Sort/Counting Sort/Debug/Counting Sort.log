@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\jack\documents\visual studio 2015\projects\counting sort\counting sort\header.h(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2015\projects\counting sort\counting sort\header.h(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2015\projects\counting sort\counting sort\header.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2015\projects\counting sort\counting sort\header.h(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\documents\visual studio 2015\projects\counting sort\counting sort\header.h(53): warning C4018: '<': signed/unsigned mismatch
+  Counting Sort.vcxproj -> C:\Users\Jack\documents\visual studio 2015\Projects\Counting Sort\Debug\Counting Sort.exe

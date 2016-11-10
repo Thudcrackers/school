@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jack\documents\visual studio 2015\projects\heap sort\heap sort\header.h(70): warning C4018: '<': signed/unsigned mismatch
+  Heap Sort.vcxproj -> c:\users\jack\documents\visual studio 2015\Projects\Heap Sort\Debug\Heap Sort.exe

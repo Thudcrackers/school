@@ -1,0 +1,11 @@
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\bin\Debug\Individual Capstone Software Engineering.exe.config
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\bin\Debug\Individual Capstone Software Engineering.exe
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\bin\Debug\Individual Capstone Software Engineering.pdb
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\obj\Debug\Individual Capstone Software Engineering.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\obj\Debug\Individual_Capstone_Software_Engineering.Form1.resources
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\obj\Debug\Individual_Capstone_Software_Engineering.Form2.resources
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\obj\Debug\Individual_Capstone_Software_Engineering.Properties.Resources.resources
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\obj\Debug\Individual Capstone Software Engineering.csproj.GenerateResource.Cache
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\obj\Debug\Individual Capstone Software Engineering.exe
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\obj\Debug\Individual Capstone Software Engineering.pdb
+c:\users\jack\documents\visual studio 2015\Projects\Individual Capstone Software Engineering\Individual Capstone Software Engineering\obj\Debug\Individual_Capstone_Software_Engineering.Form3.resources

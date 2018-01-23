@@ -1,0 +1,18 @@
+﻿Build started 8/31/2015 9:01:46 AM.
+     1>Project "C:\Users\Jack\documents\visual studio 2015\Projects\F to C Converter\F to C Converter\F to C Converter.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\F to C Converter.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "F to C ConverterDlg.cpp"
+         F to C ConverterDlg.cpp
+     1>c:\users\jack\documents\visual studio 2015\projects\f to c converter\f to c converter\f to c converterdlg.cpp(172): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\jack\documents\visual studio 2015\projects\f to c converter\f to c converter\f to c converterdlg.cpp(190): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jack\documents\visual studio 2015\Projects\F to C Converter\Debug\F to C Converter.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Jack\documents\visual studio 2015\Projects\F to C Converter\Debug\F to C Converter.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jack\documents\visual studio 2015\Projects\F to C Converter\Debug\F to C Converter.lib" /MACHINE:X86 "Debug\F to C Converter.res"
+         "Debug\F to C Converter.obj"
+         "Debug\F to C ConverterDlg.obj"
+         Debug\stdafx.obj
+         F to C Converter.vcxproj -> C:\Users\Jack\documents\visual studio 2015\Projects\F to C Converter\Debug\F to C Converter.exe
+     1>Done Building Project "C:\Users\Jack\documents\visual studio 2015\Projects\F to C Converter\F to C Converter\F to C Converter.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.49

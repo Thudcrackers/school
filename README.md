@@ -1,5 +1,7 @@
 This is the dir for many projects I did in school
 
+It is not at all to Git standards, it is just a lump of projects that I worked on
+
 Some of them were connected to external databases that no longer exist, but they can still be run by just changing the connection string
 
 This does not include any of the Java projects I did, those were lost to the void which devours random projects leaving developers saying "I knew I had it here somewhere"

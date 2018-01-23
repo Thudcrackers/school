@@ -1,0 +1,21 @@
+﻿Build started 10/15/2015 11:12:57 PM.
+     1>Project "C:\Users\Jack\documents\visual studio 2015\Projects\Fractals\Fractals\Fractals.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Fractals.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Desktop\Fractals\Fractals\FractalsView.cpp
+         FractalsView.cpp
+     1>c:\users\jack\desktop\fractals\fractals\fractalsview.cpp(60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\jack\desktop\fractals\fractals\fractalsview.cpp(75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\jack\desktop\fractals\fractals\fractalsview.cpp(76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jack\documents\visual studio 2015\Projects\Fractals\Debug\Fractals.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Jack\documents\visual studio 2015\Projects\Fractals\Debug\Fractals.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jack\documents\visual studio 2015\Projects\Fractals\Debug\Fractals.lib" /MACHINE:X86 Debug\Fractals.res
+         Debug\FractalsView.obj
+         Debug\Fractals.obj
+         Debug\FractalsDoc.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         Fractals.vcxproj -> C:\Users\Jack\documents\visual studio 2015\Projects\Fractals\Debug\Fractals.exe
+     1>Done Building Project "C:\Users\Jack\documents\visual studio 2015\Projects\Fractals\Fractals\Fractals.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.47
